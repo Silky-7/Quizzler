@@ -1,6 +1,5 @@
-[![GitHub stars](https://img.shields.io/github/stars/Silky-7/Quizzler?color=%230091FF&label=Stars&logo=Android)](https://github.com/Silky-7/Quizzler/stargazers) 
+[![GitHub stars](https://img.shields.io/github/stars/Silky-7/Quizzler?color=%230091FF&label=Stars&logo=Android)](https://github.com/Silky-7/Quizzler/stargazers)  [![GitHub license](https://img.shields.io/github/license/Silky-7/Quizzler?color=green&style=plastic)](https://github.com/Silky-7/Quizzler/blob/master/LICENCE)
 
-[![GitHub license](https://img.shields.io/github/license/Silky-7/Quizzler?color=green&style=plastic)](https://github.com/Silky-7/Quizzler/blob/master/LICENCE)
 # Quiz App
 An Innovative Android Quiz-app build using Kotlin which is a sort of Mind Sport.
 where we can answer questions
