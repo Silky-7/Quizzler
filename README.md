@@ -21,4 +21,13 @@ This App was Completed during #30daysofKotlin program by Google Developers Team.
 </p> 
 
 ## Getting Started
+
 Clone or Download the Repository and run the App on Android Studio.
+
+## Licence and Copyright
+© Silky Goyal
+
+Licenced under the [MIT Licence](LICENCE).
+
+
+
