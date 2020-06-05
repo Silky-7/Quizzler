@@ -1,13 +1,12 @@
+### GuideLines 
+> ***This App was Completed during #30daysofKotlin program by Google Developers Team.***
+
 # Quiz App
 [![GitHub stars](https://img.shields.io/github/stars/Silky-7/Quizzler?color=%230091FF&label=Stars&logo=Android)](https://github.com/Silky-7/Quizzler/stargazers)       [![GitHub license](https://img.shields.io/github/license/Silky-7/Quizzler?color=green&style=plastic)](https://github.com/Silky-7/Quizzler/blob/master/LICENCE)
 
-```An Innovative Android Quiz-app build using Kotlin which is a sort of Mind Sport.
+An Innovative Android Quiz-app build using Kotlin which is a sort of Mind Sport.
 where we can answer questions
-And find out how much we Scored in the Quiz. ```
-
-
-# GuideLines 
-This App was Completed during #30daysofKotlin program by Google Developers Team.
+And find out how much we Scored in the Quiz.  
 
 ## Quizzler ⏰
 <p align="left">
