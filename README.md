@@ -4,7 +4,7 @@ where we can answer questions
 And find out how much we Scored in the Quiz.
 
 # GuideLines 
-This App was Completed during 30 days of Kotlin program by Google Developers Team.
+This App was Completed during #30daysofKotlin program by Google Developers Team.
 
 ## Quizzler ⏰
 <p align="left">
